@@ -1,0 +1,12 @@
+# 数据集
+prefog_5s/
+subject1_data/
+
+# 运行输出
+output_*/
+
+# Python 环境与缓存
+.venv/
+venv/
+__pycache__/
+*.py[cod]
